@@ -1,7 +1,7 @@
 # TxModel
 YOLOv8 model for traffic management 
 
-````markdown
+
 # YOLO Object Detection for High-Angle Surveillance Camera
 
 ## 🇻🇳 Hướng dẫn sử dụng
